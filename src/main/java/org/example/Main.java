@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<String>colorList = List.of("black","gray","green","blue","white");
+        List<String>colorList = List.of("black","gray","green","blue","white","yellow");
         colorList.forEach(System.out::println);
     }
 }
